@@ -3,6 +3,7 @@
 ========
 Done by Jikke Romijn and committed on Thursday, August 20, 2015
 Course Project for Coursera Getting and Cleaning Data
+
 Using Human Activity Recognition Using Smartphones Dataset
 For more information about this dataset contact: activityrecognition@smartlab.ws
 
