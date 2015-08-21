@@ -14,6 +14,7 @@ This repository contains 3 files:
 - An R script: "run_analysis.R"
 - A codebook describing in detail all the variables contained in the tidy data set produced by the run_analysis.R script
 
+The run_analysis.R script was created on a MAC using OS X Yosemite version 10.10.4 and R Studio Version 0.98.1103
 ========
 Summary:
 
